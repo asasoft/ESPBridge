@@ -1,0 +1,8 @@
+*
+!images/
+!images/**
+!esp32c3.cpp
+!ESPBridge.cpp
+!LICENSE
+!README.md
+!.gitignore
